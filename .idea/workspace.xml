@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="151a5b7c-466a-4f54-b533-db7615724b54" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1nadWpHAhlYGrjEhcSTOCwb1NAJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Go Test.TestBrowser in github.com/huizluo/algo/stack">
+    <configuration name="TestBrowser in github.com/huizluo/algo/stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/stack" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/huizluo/algo/stack" />
+      <pattern value="^TestBrowser$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestDel2eteBottomN in github.com/huizluo/algo/02linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/02linkedlist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/huizluo/algo/02linkedlist" />
+      <pattern value="^TestDel2eteBottomN$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestFindMiddleNode in github.com/huizluo/algo/02linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/02linkedlist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/huizluo/algo/02linkedlist" />
+      <pattern value="^TestFindMiddleNode$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestLinkedListStack_Push in github.com/huizluo/algo/stack" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/stack" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/huizluo/algo/stack" />
+      <pattern value="^TestLinkedListStack_Push$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMergeSortedList in github.com/huizluo/algo/02linkedlist" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="algo" />
+      <working_directory value="$PROJECT_DIR$/02linkedlist" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/huizluo/algo/02linkedlist" />
+      <pattern value="^TestMergeSortedList$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestBrowser in github.com/huizluo/algo/stack" />
+        <item itemvalue="Go Test.TestLinkedListStack_Push in github.com/huizluo/algo/stack" />
+        <item itemvalue="Go Test.TestFindMiddleNode in github.com/huizluo/algo/02linkedlist" />
+        <item itemvalue="Go Test.TestDel2eteBottomN in github.com/huizluo/algo/02linkedlist" />
+        <item itemvalue="Go Test.TestMergeSortedList in github.com/huizluo/algo/02linkedlist" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1878" height="519" key="GridCell.Tab.0.bottom" timestamp="1611919262191">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.0.bottom/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664332" />
+    <state width="1878" height="519" key="GridCell.Tab.0.bottom/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262191" />
+    <state width="1878" height="519" key="GridCell.Tab.0.center" timestamp="1611919262190">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.0.center/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664331" />
+    <state width="1878" height="519" key="GridCell.Tab.0.center/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262190" />
+    <state width="1878" height="519" key="GridCell.Tab.0.left" timestamp="1611919262189">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.0.left/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664331" />
+    <state width="1878" height="519" key="GridCell.Tab.0.left/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262189" />
+    <state width="1878" height="519" key="GridCell.Tab.0.right" timestamp="1611919262190">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.0.right/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664332" />
+    <state width="1878" height="519" key="GridCell.Tab.0.right/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262190" />
+    <state width="1878" height="519" key="GridCell.Tab.1.bottom" timestamp="1611919262192">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.1.bottom/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664334" />
+    <state width="1878" height="519" key="GridCell.Tab.1.bottom/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262192" />
+    <state width="1878" height="519" key="GridCell.Tab.1.center" timestamp="1611919262191">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.1.center/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664333" />
+    <state width="1878" height="519" key="GridCell.Tab.1.center/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262191" />
+    <state width="1878" height="519" key="GridCell.Tab.1.left" timestamp="1611919262191">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.1.left/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664333" />
+    <state width="1878" height="519" key="GridCell.Tab.1.left/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262191" />
+    <state width="1878" height="519" key="GridCell.Tab.1.right" timestamp="1611919262192">
+      <screen x="0" y="23" width="1680" height="943" />
+    </state>
+    <state width="1878" height="519" key="GridCell.Tab.1.right/0.23.1680.943/-1920.23.1920.1057@-1920.23.1920.1057" timestamp="1611640664334" />
+    <state width="1878" height="519" key="GridCell.Tab.1.right/0.23.1680.943/-1920.23.1920.1057@0.23.1680.943" timestamp="1611919262192" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/03stack/stack_linked_base_linkedlist_test.go</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
